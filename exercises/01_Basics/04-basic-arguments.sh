@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ------------------------------------------------------------------
-# Script Name: 04-arguments.sh
+# Script Name: 04-basic-arguments.sh
 # Description: Demonstrates how to pass data into a script via
 #              command-line arguments (Positional Parameters).
 # ------------------------------------------------------------------
